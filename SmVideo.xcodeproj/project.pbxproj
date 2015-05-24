@@ -345,7 +345,6 @@
 				INFOPLIST_FILE = SmVideo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -356,7 +355,6 @@
 				INFOPLIST_FILE = SmVideo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -413,7 +411,6 @@
 				60BE318A1B0447A300A2D141 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 		60BE318B1B0447A300A2D141 /* Build configuration list for PBXNativeTarget "SmVideoTests" */ = {
 			isa = XCConfigurationList;
@@ -422,7 +419,6 @@
 				60BE318D1B0447A300A2D141 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

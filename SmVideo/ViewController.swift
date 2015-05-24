@@ -5,7 +5,6 @@
 //  Created by Jiajia Luo on 5/13/15.
 //  Copyright (c) 2015 PF3D. All rights reserved.
 //
-//  Added test
 
 import UIKit
 
